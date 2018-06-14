@@ -1,0 +1,6 @@
+c:\users\v.verma\source\repos\DelgateStorePOC\DelgateStorePOC\bin\Debug\DelgateStorePOC.dll
+c:\users\v.verma\source\repos\DelgateStorePOC\DelgateStorePOC\bin\Debug\DelgateStorePOC.pdb
+c:\users\v.verma\source\repos\DelgateStorePOC\DelgateStorePOC\obj\Debug\DelgateStorePOC.csprojAssemblyReference.cache
+c:\users\v.verma\source\repos\DelgateStorePOC\DelgateStorePOC\obj\Debug\DelgateStorePOC.csproj.CoreCompileInputs.cache
+c:\users\v.verma\source\repos\DelgateStorePOC\DelgateStorePOC\obj\Debug\DelgateStorePOC.dll
+c:\users\v.verma\source\repos\DelgateStorePOC\DelgateStorePOC\obj\Debug\DelgateStorePOC.pdb

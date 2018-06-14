@@ -1,0 +1,10 @@
+c:\users\v.verma\source\repos\DelgateStorePOC\Client\bin\Debug\Client.exe.config
+c:\users\v.verma\source\repos\DelgateStorePOC\Client\bin\Debug\Client.exe
+c:\users\v.verma\source\repos\DelgateStorePOC\Client\bin\Debug\Client.pdb
+c:\users\v.verma\source\repos\DelgateStorePOC\Client\bin\Debug\DelgateStorePOC.dll
+c:\users\v.verma\source\repos\DelgateStorePOC\Client\bin\Debug\DelgateStorePOC.pdb
+c:\users\v.verma\source\repos\DelgateStorePOC\Client\obj\Debug\Client.csprojAssemblyReference.cache
+c:\users\v.verma\source\repos\DelgateStorePOC\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+c:\users\v.verma\source\repos\DelgateStorePOC\Client\obj\Debug\Client.csproj.CopyComplete
+c:\users\v.verma\source\repos\DelgateStorePOC\Client\obj\Debug\Client.exe
+c:\users\v.verma\source\repos\DelgateStorePOC\Client\obj\Debug\Client.pdb
