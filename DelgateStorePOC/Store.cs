@@ -36,7 +36,7 @@ namespace DelgateStorePOC
 
         public void SaveToDataBase(MemoryStream ms)
         {
-            string connection = @"Data Source=PRO-RAET-VIVEK\SQLEXPRESS;Initial Catalog=POC;Integrated Security=True;";
+            string connection = @"Data Source=****\SQLEXPRESS;Initial Catalog=POC;Integrated Security=True;";
 
             byte[] bytes = new byte[Int16.MaxValue];
              int count = 0;
@@ -68,7 +68,7 @@ namespace DelgateStorePOC
 
         public byte[] ReadActionFromDB()
         {
-            string connection = @"Data Source=PRO-RAET-VIVEK\SQLEXPRESS;Initial Catalog=POC;Integrated Security=True;";
+            string connection = @"Data Source=****\SQLEXPRESS;Initial Catalog=POC;Integrated Security=True;";
             byte[] bytes = new byte[Int16.MaxValue];
 
             using (SqlConnection con = new SqlConnection(connection))
